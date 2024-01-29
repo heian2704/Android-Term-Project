@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Toway"
 include(":app")
- 

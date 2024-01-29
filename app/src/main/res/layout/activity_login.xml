@@ -69,24 +69,13 @@
         tools:layout_editor_absoluteX="79dp" />
 
     <ImageView
-        android:id="@+id/ivLoginLogo"
-        android:layout_width="220dp"
-        android:layout_height="220dp"
-        android:layout_marginTop="40dp"
+        android:id="@+id/imageView"
+        android:layout_width="315dp"
+        android:layout_height="287dp"
+        app:layout_constraintBottom_toTopOf="@+id/loginUsername"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/towaylogo" />
-
-    <TextView
-        android:id="@+id/tvLoginHead"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Log In"
-        android:textSize="42sp"
-        app:layout_constraintBottom_toTopOf="@+id/loginUsername"
-        app:layout_constraintEnd_toEndOf="@+id/ivLoginLogo"
-        app:layout_constraintStart_toStartOf="@+id/ivLoginLogo"
-        app:layout_constraintTop_toBottomOf="@+id/ivLoginLogo" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
