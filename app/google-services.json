@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1066758358950",
-    "project_id": "towayauth",
-    "storage_bucket": "towayauth.appspot.com"
+    "project_number": "216674716823",
+    "project_id": "toway-41887",
+    "storage_bucket": "toway-41887.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1066758358950:android:e1fc2c157e0bd4e95db167",
+        "mobilesdk_app_id": "1:216674716823:android:34497b752e82d7d0fe6dd2",
         "android_client_info": {
           "package_name": "com.example.toway"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDCKG1zJDVDZa2gjY9DwvbY2-O9B35AHno"
+          "current_key": "AIzaSyBinLJDTI5gpTfBrO74C8WvVy9-vYSrMeg"
         }
       ],
       "services": {
